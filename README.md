@@ -2,6 +2,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mattmilten/mattmilten/output/github-snake.svg)
 
+This cute animation of my contribution grid is based on this code: https://github.com/Platane/snk
 <!--
 **mattmilten/mattmilten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
