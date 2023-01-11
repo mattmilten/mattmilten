@@ -10,6 +10,7 @@ You can find my full webpage here: https://mattmilten.github.io/
 </a>
  -->
  
-![github contribution grid snake animation](https://raw.githubusercontent.com/mattmilten/mattmilten/output/github-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mattmilten/mattmilten/output/github-snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mattmilten/mattmilten/output/github-snake-light.svg#gh-light-mode-only)
 
 This cute animation of my contribution grid is based on this code: https://github.com/Platane/snk
